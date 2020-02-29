@@ -1,0 +1,56 @@
+{
+  "name": "hyperhack2020-cdr",
+  "version": "1.0.0",
+  "description": "HyperHack2020 Hackathon Competition - CDR challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ir-areatak-co/HyperHack2020-CDR.git"
+  },
+  "keywords": [
+    "Hyperledger",
+    "Fabric",
+    "HyperHack2020"
+  ],
+  "author": "H.Namazian",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "config": "^3.2.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "es6-promisify": "^6.0.2",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "fabric-ca-client": "^1.4.4",
+    "fabric-client": "^1.4.4",
+    "fabric-network": "^1.4.4",
+    "fs-extra": "^8.1.0",
+    "joi": "^14.3.1",
+    "js-sha3": "^0.8.0",
+    "jsrsasign": "^8.0.12",
+    "mongoose": "^5.8.11",
+    "net": "^1.0.2",
+    "node-forge": "^0.9.1",
+    "openssl": "^1.1.0",
+    "os-tmpdir": "^2.0.0",
+    "pkijs": "^2.1.84",
+    "rand-token": "^0.4.0",
+    "standard": "^14.3.1",
+    "standardjs": "^1.0.0-alpha",
+    "which": "^2.0.2",
+    "winston": "^3.2.1"
+  },
+  "standard": {
+    "ignore": [
+      "*.bundle.js"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/ir-areatak-co/HyperHack2020-CDR/issues"
+  },
+  "homepage": "https://github.com/ir-areatak-co/HyperHack2020-CDR#readme"
+}
