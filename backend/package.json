@@ -31,7 +31,7 @@
     "fs-extra": "^8.1.0",
     "joi": "^14.3.1",
     "js-sha3": "^0.8.0",
-    "jsrsasign": "^8.0.12",
+    "jsrsasign": "^10.5.25",
     "mongoose": "^5.8.11",
     "net": "^1.0.2",
     "node-forge": "^0.9.1",
