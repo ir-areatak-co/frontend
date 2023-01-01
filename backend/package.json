@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "child_process": "^1.0.2",
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "es6-promisify": "^6.0.2",
